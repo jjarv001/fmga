@@ -4,7 +4,7 @@ body {
     margin: auto;
     font-family: 'Courier New', Courier, monospace;
     color: black;
-    
+
 }
 h1 {
     color: black;
@@ -17,4 +17,8 @@ h3 {
 }
 a {
     color: black;
+}
+.image_background_remove {
+    background-image: none;
+    background-color: transparent;
 }
