@@ -21,3 +21,8 @@ a {
 .image-background-remove {
     background-color: transparent;
 }
+.header-image {
+    background-color: transparent;
+    height:12px;
+    width:12px
+}
