@@ -21,7 +21,11 @@ a {
 .image-background-remove {
     background-color: transparent;
 }
+/* this image should be small */
 .header-image {
-    height:12px;
-    width:12px
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
 }
