@@ -29,7 +29,13 @@ a {
     display: block;
     border-radius: 50%;
 }
-
+.mush-love-recipes-text-block {
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
 /* mush-love-recipes logo */
 .mush-love-recipes-logo {
     float: right;
