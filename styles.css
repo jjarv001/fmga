@@ -30,6 +30,7 @@ a {
     border-radius: 50%;
 }
 .mush-love-recipes-text-block {
+    float: left;
     width: 30%;
     height: 30%;
     margin: auto;
