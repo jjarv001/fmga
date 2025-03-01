@@ -56,15 +56,6 @@ a {
     border-radius: 50%;
 }
 
-/*f&f-recipes-logo */
-.field-and-forest-recipes-logo {
-    width: 30%;
-    height: 30%;
-    margin: auto;
-    display: block;
-    border-radius: 50%;
-}
-
 /* for our_organization image container */
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
