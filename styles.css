@@ -86,8 +86,11 @@ display: table;
 
 .gallery{
     display: inline-block;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
     margin: 1px;
-    width: 50px;
     border-radius: 5%;
     border: 1px solid hsl(0, 0%, 2%);
     box-shadow: 2px 2px 5px hsl(0, 0%, 20%);
@@ -98,8 +101,8 @@ display: table;
     box-shadow: 2px 2px 5px hsl(0, 0%, 40%);
 }
 .gallery img{
-    width: 100%;
-    height: auto;
+    width: 150px;
+    height: 150px;
     display: block;
 
 }
