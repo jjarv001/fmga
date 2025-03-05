@@ -124,3 +124,7 @@ display: table;
     font-weight: bold;
     color: black;
 }
+
+.rm-background {
+    mix-blend-mode: multiply;
+}
