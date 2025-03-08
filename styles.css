@@ -23,6 +23,14 @@ p {
     color: black;
     font-size: 22px;
 }
+.float_image_right {
+    float: right;
+    margin: 10px;
+}
+.float_image_left {
+    float: left;
+    margin: 10px;
+}
 .image-background-remove {
     background-color: transparent;
 }
