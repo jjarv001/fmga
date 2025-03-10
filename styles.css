@@ -21,7 +21,8 @@ a {
 
 p {
     color: black;
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: bold;
 }
 .float_image_right {
     float: right;
